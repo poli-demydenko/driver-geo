@@ -1,0 +1,16 @@
+{
+  "db": {
+    "user": "db_user",
+    "password": "db_password",
+    "host": "db",
+    "port": 5432,
+    "database": "driver_db"
+  },
+  "thresholds": {
+    "max_speed": 100,
+    "max_altitude": 1000,
+    "min_altitude": 0
+  },
+  "interval": 5,
+  "num_drivers": 10
+}
